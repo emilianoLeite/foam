@@ -1,0 +1,1 @@
+- [Bone is the _archetype_ of resilience](https://www.youtube.com/watch?v=8LbePBiOvZ4&t=314s)
