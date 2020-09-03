@@ -1,0 +1,4 @@
+- [A Few Observations on the Marvelous Resilience of Bone & Resilience Engineering - Dr. Richard Cook](https://www.youtube.com/watch?v=8LbePBiOvZ4&t=314s)
+- [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- [Categories for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM)
+- [Greg Young - Art of deleting software](https://vimeo.com/108441214)
