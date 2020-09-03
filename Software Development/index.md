@@ -1,0 +1,6 @@
+- [Greg Young - Art of deleting software](https://vimeo.com/108441214)
+  - Consultants basically exist because developers make the same mistake over, and over since the 70's
+  - Write your programs in a manner that they can be written within 1 week
+  - Actors, objects, microsservices...its all the same underlying model
+  - "Don't model now for changes that _might_ happen in the future"
+  - "Make decisions at the last responsible moment"
