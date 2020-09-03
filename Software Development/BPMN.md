@@ -1,0 +1,1 @@
+- [Padrões de desacoplamento, orquestração, coreografia e concorrência no Camunda](https://medium.com/holisticon-consultants/distributed-orchestration-with-camunda-bpm-part-2-9a6d54389184)
