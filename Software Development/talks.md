@@ -2,3 +2,4 @@
 - [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
 - [Categories for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM)
 - [Greg Young - Art of deleting software](https://vimeo.com/108441214)
+- [Testing a React component that uses useContext](https://www.youtube.com/watch?v=3yiialslPbc&ab_channel=KentC.Dodds)
