@@ -3,3 +3,11 @@
 - [Categories for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM)
 - [Greg Young - Art of deleting software](https://vimeo.com/108441214)
 - [Testing a React component that uses useContext](https://www.youtube.com/watch?v=3yiialslPbc&ab_channel=KentC.Dodds)
+- [GOTO 2019 • Lies, Damned Lies, and Metrics • Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=6)
+- [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms&ab_channel=FacebookDevelopers)
+- [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016](https://www.youtube.com/watch?v=mVVNJKv9esE&t=0s&ab_channel=ReactEurope)
+- [Lambda World 2018 - Keynote: How Does Code Sound? - Felienne Hermans](https://www.youtube.com/watch?v=q5wJtk5Afck&ab_channel=LambdaWorld&t=203s)
+- [Algebraic data types for fun and profit by Clément Delafargue](https://www.youtube.com/watch?v=EPxi546vVHI&ab_channel=Devoxx&t=0s)
+  - Exemplo de quando/como usar um Sum types
+  - Extrair propriedades em comum pra uma interface `Base` => Distributivity
+- [GOTO 2017 • Mob Programming: A Whole Team Approach • Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=37&ab_channel=GOTOConferences&t=0s)
