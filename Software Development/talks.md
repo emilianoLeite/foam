@@ -5,9 +5,14 @@
 - [Testing a React component that uses useContext](https://www.youtube.com/watch?v=3yiialslPbc&ab_channel=KentC.Dodds)
 - [GOTO 2019 • Lies, Damned Lies, and Metrics • Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=6)
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms&ab_channel=FacebookDevelopers)
+- [What's in a language? (Taming the Meta Language 2) - Cheng Lou, React London 2017](https://www.youtube.com/watch?v=24S5u_4gx7w&t=213s&ab_channel=ReactLondon2017)
 - [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016](https://www.youtube.com/watch?v=mVVNJKv9esE&t=0s&ab_channel=ReactEurope)
+- [Imperfection - Cheng Lou aka @_chenglou at @ReactEurope 2017](https://www.youtube.com/watch?v=tCVXp6gFD8o&t=23s&ab_channel=ReactEurope)
 - [Lambda World 2018 - Keynote: How Does Code Sound? - Felienne Hermans](https://www.youtube.com/watch?v=q5wJtk5Afck&ab_channel=LambdaWorld&t=203s)
 - [Algebraic data types for fun and profit by Clément Delafargue](https://www.youtube.com/watch?v=EPxi546vVHI&ab_channel=Devoxx&t=0s)
+  - Exemplo de Product type: Tuples
   - Exemplo de quando/como usar um Sum types
+  - Exemplo de Sum type: Enum
   - Extrair propriedades em comum pra uma interface `Base` => Distributivity
 - [GOTO 2017 • Mob Programming: A Whole Team Approach • Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=37&ab_channel=GOTOConferences&t=0s)
+-[Document Yourself: A Framework for Career Advancement - Michelle Brenner - REdeploy 2019](https://youtu.be/aKSIuq0oSgQ?t=11)
