@@ -1,0 +1,1 @@
+- Subscrição: Direito preferencial que os cotistas tem de comprar ações de uma nova rodada de captação
