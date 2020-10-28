@@ -1,9 +1,9 @@
-- [A Few Observations on the Marvelous Resilience of Bone & Resilience Engineering - Dr. Richard Cook](https://www.youtube.com/watch?v=8LbePBiOvZ4&t=314s)
+- [A Few Observations on the Marvelous Resilience of Bone & Resilience Engineering - Dr. Richard Cook - REdeploy 2019](https://www.youtube.com/watch?v=8LbePBiOvZ4)
+-[Document Yourself: A Framework for Career Advancement - Michelle Brenner - REdeploy 2019](https://youtu.be/aKSIuq0oSgQ)
 - [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
 - [Categories for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM)
 - [Greg Young - Art of deleting software](https://vimeo.com/108441214)
 - [Testing a React component that uses useContext](https://www.youtube.com/watch?v=3yiialslPbc&ab_channel=KentC.Dodds)
-- [GOTO 2019 • Lies, Damned Lies, and Metrics • Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=6)
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms&ab_channel=FacebookDevelopers)
 - [What's in a language? (Taming the Meta Language 2) - Cheng Lou, React London 2017](https://www.youtube.com/watch?v=24S5u_4gx7w&t=213s&ab_channel=ReactLondon2017)
 - [Cheng Lou - On the Spectrum of Abstraction at react-europe 2016](https://www.youtube.com/watch?v=mVVNJKv9esE&t=0s&ab_channel=ReactEurope)
@@ -15,4 +15,6 @@
   - Exemplo de Sum type: Enum
   - Extrair propriedades em comum pra uma interface `Base` => Distributivity
 - [GOTO 2017 • Mob Programming: A Whole Team Approach • Woody Zuill](https://www.youtube.com/watch?v=SHOVVnRB4h0&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=37&ab_channel=GOTOConferences&t=0s)
--[Document Yourself: A Framework for Career Advancement - Michelle Brenner - REdeploy 2019](https://youtu.be/aKSIuq0oSgQ?t=11)
+- [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences)
+- [GOTO 2017 • DDD Today - Modeling Uncertainty • Vaughn Vernon](https://www.youtube.com/watch?v=8Y-XPlXOWoA&ab_channel=GOTOConferences)
+- [GOTO 2019 • Lies, Damned Lies, and Metrics • Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=6)
