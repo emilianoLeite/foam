@@ -5,3 +5,4 @@
   - Dão preferencia à distribuição de lucros
 - Aluguel de ações
 - Hedge
+- Spread

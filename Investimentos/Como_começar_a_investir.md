@@ -1,3 +1,0 @@
-- Investimentos de baixa volatilidade (maior segurança)
-- O que é taxa de juros, selic e CDI, inflação?
-- O que significa taxa de juros baixa?
