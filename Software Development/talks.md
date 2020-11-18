@@ -18,3 +18,5 @@
 - [GOTO 2017 • The Many Meanings of Event-Driven Architecture • Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0&ab_channel=GOTOConferences)
 - [GOTO 2017 • DDD Today - Modeling Uncertainty • Vaughn Vernon](https://www.youtube.com/watch?v=8Y-XPlXOWoA&ab_channel=GOTOConferences)
 - [GOTO 2019 • Lies, Damned Lies, and Metrics • Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow&list=PLEx5khR4g7PKynT5Jrbrx94Z3Ic5sd5DM&index=6)
+- [J B Rainsberger Integrated Tests Are A Scam HD](https://www.youtube.com/watch?v=VDfX44fZoMc)
+- [Discovery Testing the Game of Life (Part 1)](https://www.youtube.com/watch?v=aeX5OXO-w30)
