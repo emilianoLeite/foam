@@ -14,3 +14,4 @@
 - Using that position of independence and power to support and influence other cool/hard/interesting challenges in the organization.
 - Not being afraid: to question the status quo, to push back on decisions you think would be harmful, or to tackle challenges in unknown territory.
 
+- [Staff Engineer: Leadership beyond the management track (English Edition) eBook Kindle](https://www.amazon.com.br/dp/B08RMSHYGG?keywords=staff%20engineer%20will%20larson&geniuslink=true)

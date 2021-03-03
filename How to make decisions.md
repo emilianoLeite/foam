@@ -1,0 +1,1 @@
+- [Don't judge decisions by their outcome](https://twitter.com/Swizec/status/1351994596687896576)

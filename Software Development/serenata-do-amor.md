@@ -1,4 +1,4 @@
-# [Serenada Do Amor](https://serenata.ai/)
+# [Serenata Do Amor](https://serenata.ai/)
 
 Inteligência artificial para controle social da administração pública
 
