@@ -4,3 +4,5 @@
   - Actors, objects, microsservices...its all the same underlying model
   - "Don't model now for changes that _might_ happen in the future"
   - "Make decisions at the last responsible moment"
+- [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+  - [Tech stack](https://panelbear.com/blog/tech-stack/)
