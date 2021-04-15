@@ -1,0 +1,4 @@
+- [Koans](https://play.kotlinlang.org/koans/overview)
+- [Mini curso conceitos básicos de Kotlin](https://www.youtube.com/playlist?list=PLM8_o_MDe-LElQqV-SZtlyGt8l7iz770r)
+- [Features interessantes do Kotlin](https://www.youtube.com/watch?v=a4dppBEjXds&ab_channel=Creditas)
+- [Kotlin WEB API do Zero](https://www.youtube.com/playlist?list=PLM8_o_MDe-LEas_XSKIyaFAp_MS__5j4p)

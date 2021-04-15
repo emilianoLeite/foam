@@ -1,0 +1,3 @@
+- [Things I've Been Thinking ABout on Software Engineering (Pragmatic Engineer)](https://docs.google.com/document/d/1i-9MrPGDMRFojSrqxsEIvPZFAiEEkz1IClOAMJl3qM4/edit#heading=h.7ldk1nu97wzq)
+- [How to handle related data in microservices DBs](https://twitter.com/ploeh/status/1374739279587504134?s=09)
+  - Video [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=jdliXz70NtM)
