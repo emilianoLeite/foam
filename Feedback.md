@@ -1,0 +1,2 @@
+- [[TED] The secret to giving greate feedback](https://www.ted.com/talks/leeann_renninger_the_secret_to_giving_great_feedback?language=en#t-288087)
+- [Beware of tight feedback loops](https://brianlui.dog/2020/05/10/beware-of-tight-feedback-loops/)
