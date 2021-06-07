@@ -1,6 +1,8 @@
 - Grande problema com nomenclatura. Ausência de uma linguagem ubíqua
   - Categorias de testes
   - Diferenças entre Front vs Backend
+  - [On the Diverse And Fantastical Shapes of Testing](https://martinfowler.com/articles/2021-test-shapes.html)
+    - [Related Searls thread](https://twitter.com/searls/status/1393571227650908162)
 - Testing pyramid
   - [J B Rainsberger Integrated Tests Are A Scam HD](https://www.youtube.com/watch?v=VDfX44fZoMc)
 - Test Driven Development - theory and practice
