@@ -1,0 +1,1 @@
+- [Documentar é preciso - capítulo 2](https://arquiteturadesoftware.online/documentar-e-preciso-capitulo-2-v1-04/)
