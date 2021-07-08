@@ -1,0 +1,2 @@
+- [Write clean Object-Oriented code by replacing conditional with polymorphism](https://dev.to/kactus/write-clean-object-oriented-code-by-replacing-conditional-with-polymorphism-4ng2)
+- [(Refactoring.guru) Replace Conditional with Polymorphism](https://refactoring.guru/replace-conditional-with-polymorphism)
