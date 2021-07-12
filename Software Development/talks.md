@@ -20,6 +20,17 @@
 - [J B Rainsberger Integrated Tests Are A Scam HD](https://www.youtube.com/watch?v=VDfX44fZoMc)
 - [Discovery Testing the Game of Life (Part 1)](https://www.youtube.com/watch?v=aeX5OXO-w30)
 - [How Microteams Change the Way We Collaborate. Again • Sander Hoogendoorn • GOTO 2021](https://www.youtube.com/watch?v=fCMuzSAyAGw&ab_channel=GOTOConferences)
+- [You're Testing WHAT? • Gojko Adzic • GOTO 2021](https://www.youtube.com/watch?v=5_IW7npQk9k)
+  - Rule #1: Test where your risk is
+    - Rolling deploys
+    - Custom checks/alerts, based on functional and non-functional requirements (drop in sales, number of exceptions, etc)
+  - Rule #2: Automate to assist people
+    - Don't sacrifice perspective for easy automation
+    - Maybe you can't 100% automate a check, but is almost always possible to automate at least some part of the process, such as setup, cleanup, etc
+  - Rule #3: Tests should facilitate changes
+    - Visual testing
+      - Rule #4 optimize for the diff
+  - Rule #5: Test the "what" not the "how"
 - [[mob programming]]
 - [[observability]]
 - [[okr]]
