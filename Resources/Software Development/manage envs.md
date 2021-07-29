@@ -1,0 +1,1 @@
+# [Change enviroment variables based on pwd](https://github.com/direnv/direnv)
