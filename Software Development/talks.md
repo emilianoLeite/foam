@@ -1,3 +1,9 @@
+## To Watch
+- [Keynote: Systems Thinking — Kent Beck & Jessica Kerr](https://www.youtube.com/watch?v=z8bL_V9in9o&ab_channel=ChariotSolutions)
+- [Keynote: Making Progress — Alan Kay](https://www.youtube.com/watch?v=9MqVfzxAp6A&ab_channel=ChariotSolutions)
+- [Coding a New Customer Experience: How Vanguard Upleveled Their Org and Brand With Observability](https://www.honeycomb.io/resources/coding-a-new-customer-experience-how-vanguard-upleveled-their-org-and-brand-with-observability-thanks/?submissionGuid=4d1c662f-80dc-4376-bace-5b3ed9883d90)
+- [JavaScript Marathon | Shaping User Experience with RxJS](https://www.youtube.com/watch?v=tPMIV_O4lic&ab_channel=ThisDotMedia)
+## Watched
 - [A Few Observations on the Marvelous Resilience of Bone & Resilience Engineering - Dr. Richard Cook - REdeploy 2019](https://www.youtube.com/watch?v=8LbePBiOvZ4)
 -[Document Yourself: A Framework for Career Advancement - Michelle Brenner - REdeploy 2019](https://youtu.be/aKSIuq0oSgQ)
 - [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
