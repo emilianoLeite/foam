@@ -15,6 +15,7 @@ type NonEmptyArray<T> = [T, ...T[]];
 
 - [Flavoring and Branding](https://spin.atomicobject.com/2018/01/15/typescript-flexible-nominal-typing/)
   - Related topic: [shadow types](https://dev.to/busypeoples/notes-on-typescript-phantom-types-kg9)
+- [Official doc](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes-func.html#discriminated-unions) about discriminated unions (aka tagged unions)
 
 ---
 
