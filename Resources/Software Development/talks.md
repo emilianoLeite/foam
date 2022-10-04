@@ -40,5 +40,6 @@
 - [[mob programming]]
 - [[observability]]
 - [[okr]]
+- [[Make illegal states unrepresentable]]
 
 
