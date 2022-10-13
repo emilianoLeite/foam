@@ -37,6 +37,7 @@
     - Visual testing
       - Rule #4 optimize for the diff
   - Rule #5: Test the "what" not the "how"
+- ["The Hard Parts of Open Source" by Evan Czaplicki - Strange Lopp 2018](https://www.youtube.com/watch?v=o_4EX4dPppA)
 - [[mob programming]]
 - [[observability]]
 - [[okr]]
