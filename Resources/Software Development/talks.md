@@ -38,6 +38,13 @@
       - Rule #4 optimize for the diff
   - Rule #5: Test the "what" not the "how"
 - ["The Hard Parts of Open Source" by Evan Czaplicki - Strange Lopp 2018](https://www.youtube.com/watch?v=o_4EX4dPppA)
+- ["Stop Writing Dead Programs" by Jack Rusher (Strange Loop 2022)](https://www.youtube.com/watch?v=8Ab3ArE8W3s)
+  - Advocates for dynamic langagues, REPL, live inspection of running programs, etc
+  - The spec is always wrong
+  - The only complete spec of a non-trivial system is the source code itself
+  - We learn through iteration
+  - And even when the spec is right, its still wrong! The software will change tomorrow. All software is continuous change.
+  - Therefore `Debuggability > Correctness by Construction`
 - [[mob programming]]
 - [[observability]]
 - [[okr]]
