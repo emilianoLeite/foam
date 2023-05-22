@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Gray Matter Dark",
+  "workbench.colorTheme": "Default Dark Modern",
   "[markdown]": {
     "editor.quickSuggestions": {
       "comments": "on",
@@ -19,5 +19,25 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
-  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension"
+  "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#e0d8f1",
+    "activityBar.background": "#e0d8f1",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#c47c5b",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#e0d8f1",
+    "statusBar.background": "#c3b2e4",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#a68cd7",
+    "statusBarItem.remoteBackground": "#c3b2e4",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#c3b2e4",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#c3b2e499",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#c3b2e4"
 }
