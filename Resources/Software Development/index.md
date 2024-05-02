@@ -1,4 +1,4 @@
-- [Greg Young - Art of deleting software](https://vimeo.com/108441214)
+- [Greg Young - Art of deleting software](https://www.youtube.com/watch?v=1FPsJ-if2RU&ab_channel=tretton37)
   - Consultants basically exist because developers make the same mistake over, and over since the 70's
   - Write your programs in a manner that they can be written within 1 week
   - Actors, objects, microsservices...its all the same underlying model

@@ -8,7 +8,7 @@
 -[Document Yourself: A Framework for Career Advancement - Michelle Brenner - REdeploy 2019](https://youtu.be/aKSIuq0oSgQ)
 - [Category Theory in Life - Eugenia Cheng](https://www.youtube.com/watch?v=ho7oagHeqNc)
 - [Categories for the Working Hacker - Philip Wadler](https://www.youtube.com/watch?v=gui_SE8rJUM)
-- [Greg Young - Art of deleting software](https://vimeo.com/108441214)
+- [Greg Young - Art of deleting software](https://www.youtube.com/watch?v=1FPsJ-if2RU&ab_channel=tretton37)
 - [Testing a React component that uses useContext](https://www.youtube.com/watch?v=3yiialslPbc&ab_channel=KentC.Dodds)
 - [Cheng Lou - Taming the Meta Language - React Conf 2017](https://www.youtube.com/watch?v=_0T5OSSzxms&ab_channel=FacebookDevelopers)
 - [What's in a language? (Taming the Meta Language 2) - Cheng Lou, React London 2017](https://www.youtube.com/watch?v=24S5u_4gx7w&t=213s&ab_channel=ReactLondon2017)
