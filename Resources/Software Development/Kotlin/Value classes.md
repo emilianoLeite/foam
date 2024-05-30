@@ -5,3 +5,7 @@
 - Used to wrap primitive values. Examples:
   - `Email` instead of `String`
   - `Celsius`, `DollarCents`, `Seconds` instead of `Int` or `Long`
+
+
+## AKA
+- Branded types
