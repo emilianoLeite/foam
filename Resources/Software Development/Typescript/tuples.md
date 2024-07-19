@@ -11,7 +11,7 @@ type _TupleOf<
   T,
   TupleSize extends number,
   Rest extends unknown[]
-> = Rest['length'] extends TupleSize ? Rest : _TupleOf<T, TupleSize, [T, ...Rest]>
+> = Lenght<Rest> extends TupleSize ? Rest : _TupleOf<T, TupleSize, [T, ...Rest]>
 type Tuple<T, TupleSize extends number> = TupleSize extends TupleSize
   ? number extends TupleSize
     ? T[]
